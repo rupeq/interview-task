@@ -23,5 +23,5 @@ dist-ssr
 *.sln
 *.sw?
 
-./components/*
-./hooks/*
+./src/components/*
+./src/hooks/*
